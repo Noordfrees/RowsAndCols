@@ -125,7 +125,7 @@ public class Game {
 					g.fill3DRect(r.x + 2, ypos - delta * 2 / 3, r.width - 3, delta, true);
 				}
 				g.setColor(new Color(0xcccccc));
-				s = e.points + " (" + e.nrPlayers + ")";
+				s = (e.points * e.nrPlayers) + " (" + e.points + "×" + e.nrPlayers + ")";
 				g.drawString(s, r.x + r.width / 2 -
 						(int)g.getFont().getStringBounds(s, g.getFontRenderContext()).getWidth(), ypos);
 				g.drawString(": " + e.name, r.x + r.width / 2, ypos);

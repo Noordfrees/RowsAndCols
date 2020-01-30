@@ -55,6 +55,8 @@ In the menu, you can continue the saved game (if any), or start a new game with 
 
 Use the Up/Down arrow keys to navigate the menu, and the Left/Right keys to change the value for the number of players. Use Enter to select the highlighted value. When a player is selected, Enter will toggle whether it is a computer player; use the keyboard to edit the player's name. Use Escape to quit.
 
+On the right hand side, the highscores are displayed. Since players tend to get fewer points in games with many players, the actual score is defined as the product of the in-game score and the number of players in the game.
+
 ## Website
 
 [Repository](https://github.com/Noordfrees/RowsAndCols)
