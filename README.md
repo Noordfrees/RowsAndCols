@@ -1,7 +1,7 @@
 # RowsAndCols
 Tactical board game about placing bricks in various shapes and colours in rows. Try to place the 6th brick in a row to get bonus points - but don't give your competitors the chance to fill up your rows...
 
-![RowsAndCols]()
+![RowsAndCols](https://repository-images.githubusercontent.com/237259241/c30cc600-438f-11ea-8b3b-e677f46c4530)
 
 ## Getting Started
 
@@ -46,6 +46,12 @@ At the beginning of your turn, you may also swap bricks instead of placing some 
 ### The End Game
 
 When the last brick is drawn from the bag, the end game begins. It is no longer allowed to swap bricks. You do not receive new bricks at the end of your turn. When a player places his last brick, he receives 6 bonus points at the end of his turn, and the game ends immediately. The player with the highest score wins, and he might even make it into the highscore list!
+
+### The Top Bar
+
+In the top left corner, you can see how many brick are left in the bag. Next to it are the buttons for ending your turn, undoing all moves made so far during this turn, entering brick swapping mode, and letting the AI move (from left to right). Inactive buttons are greyed out.
+
+In the top-right corner, all players are listed with their scores. The current player is highlighted with bold font.
 
 ## The Menu
 
