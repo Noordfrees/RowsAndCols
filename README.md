@@ -1,13 +1,13 @@
-# RowsAndCols
+# Rows&TCols
 Tactical board game about placing bricks in various shapes and colours in rows. Try to place the 6th brick in a row to get bonus points - but don't give your competitors the chance to fill up your rows...
 
-![RowsAndCols](https://repository-images.githubusercontent.com/237259241/c30cc600-438f-11ea-8b3b-e677f46c4530)
+![Rows&Cols](https://repository-images.githubusercontent.com/237259241/c30cc600-438f-11ea-8b3b-e677f46c4530)
 
 ## Getting Started
 
 No installation needed. Just clone or download the repository and run `javac *.java` in the base directory. You need to have a Java Development Kit, version 8 or later, installed in order to use `javac`. I recommend OpenJDK.
 
-After compiling, you can start Mosaik from the base directory using `java Game`.
+After compiling, you can start Rows&Cols from the base directory using `java Game`.
 
 ## The Game
 
@@ -55,7 +55,7 @@ In the top-right corner, all players are listed with their scores. The current p
 
 ## The Menu
 
-Press Escape to open the menu. The game will be saved automatically. (This is also the case when closing RowsAndCols during a game.)
+Press Escape to open the menu. The game will be saved automatically. (This is also the case when closing Rows&Cols during a game.)
 
 In the menu, you can continue the saved game (if any), or start a new game with 2-6 players.
 
