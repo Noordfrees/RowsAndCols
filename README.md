@@ -1,4 +1,4 @@
-# Rows&TCols
+# Rows&Cols
 Tactical board game about placing bricks in various shapes and colours in rows. Try to place the 6th brick in a row to get bonus points - but don't give your competitors the chance to fill up your rows...
 
 ![Rows&Cols](https://repository-images.githubusercontent.com/237259241/c30cc600-438f-11ea-8b3b-e677f46c4530)
